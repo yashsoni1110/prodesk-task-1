@@ -4,8 +4,12 @@ Welcome to the **Prodesk IT** project repository. This is a responsive, modern s
 
 ![Prodesk IT Homepage](screenshot1.png)
 ![Prodesk IT Homepage](screenshot2.png)
-![Prodesk IT Live with VERCEL](https://prodesk-task-1.vercel.app/)
-![Prodesk IT Live with GitHub Pages](https://yashsoni1110.github.io/prodesk-task-1/)
+
+
+## 🚀 Live Link
+
+[Prodesk IT Live with VERCEL](https://prodesk-task-1.vercel.app/)
+[Prodesk IT Live with GitHub Pages](https://yashsoni1110.github.io/prodesk-task-1/)
 
 
 ## 🚀 Features
