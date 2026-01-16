@@ -3,14 +3,17 @@
 Welcome to the **Prodesk IT** project repository. This is a responsive, modern single-page website for a digital marketing agency, featuring a clean design, dark mode, and mobile responsiveness.
 
 ![Prodesk IT Homepage](screenshot1.png)
-![Prodesk IT Homepage](screenshot2.png)
 
 
 ## 🚀 Live Link
 
 [Prodesk IT Live with VERCEL](https://prodesk-task-1.vercel.app/)
+
 [Prodesk IT Live with GitHub Pages](https://yashsoni1110.github.io/prodesk-task-1/)
 
+## 🎥 Video Demo
+
+[▶️ Watch Video Demo](https://drive.google.com/file/d/1qTJtVI8Aq36dyr1k795NuBGARpNGBAFv/view?usp=sharing)
 
 ## 🚀 Features
 
