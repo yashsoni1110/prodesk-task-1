@@ -1,4 +1,4 @@
-# Prodesk IT - Digital Marketing Agency
+# Prodesk IT - Digital Marketing Agenc
 
 Welcome to the **Prodesk IT** project repository. This is a responsive, modern single-page website for a digital marketing agency, featuring a clean design, dark mode, and mobile responsiveness.
 
